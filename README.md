@@ -1,92 +1,116 @@
-# 👋 Hi, I'm Hafiz Muhammad Hassan
+<!-- ===================== HEADER ===================== -->
 
-### 🎓 BS Artificial Intelligence Student | 💻 Python & C++ | 🤖 Future AI Engineer
+<div align="center">
+
+# 💫 Hafiz Muhammad Hassan
+
+### 🎓 BS Artificial Intelligence Student | 🐍 Python | 💻 C++ | 🤖 Future AI Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;AI+Student+%F0%9F%A4%96;Learning+Python+%F0%9F%90%8D;Building+My+AI+Journey+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=hafizmhassan2025&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 🌌 About Me
+
+🎓 **BS Artificial Intelligence Student** at **FUUAST Islamabad**
+
+💻 Passionate about programming, Artificial Intelligence and building practical projects.
+
+🐍 Currently focusing on **Python** and strengthening my programming fundamentals.
+
+🧠 Exploring **Machine Learning, Data Science, AI Engineering and Backend Development**.
+
+🔧 Learning how to build real projects using **Git & GitHub**.
+
+🚀 My long-term goal is to become an **AI Engineer with strong backend engineering skills**.
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+### 🧠 Exploring
+
+<p>
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge\&logo=ai\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00A8E8?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-6C63FF?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-7B2CBF?style=for-the-badge)
+
+</p>
+
+---
+
+<!-- ===================== LEARNING JOURNEY ===================== -->
+
+## 🧭 My Learning Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+Student+%F0%9F%A4%96;Learning+Python+%F0%9F%90%8D;Building+My+AI+Journey+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 I'm a **BS Artificial Intelligence student at FUUAST Islamabad**.
-
-💻 I enjoy programming and building small projects while strengthening my fundamentals.
-
-🐍 Currently focusing on **Python** and improving my programming skills.
-
-🧠 Exploring **Artificial Intelligence, Machine Learning, Data Science, and Backend Development**.
-
-🔧 I also enjoy working with **Git and GitHub** and learning how real software projects are developed.
-
-🎯 My long-term goal is to become an **AI Engineer** with strong backend development skills.
-
----
-
-## 🛠️ My Tech Stack
-
-### 👨‍💻 Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
-### 📚 Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Python • Data Structures & Algorithms • Machine Learning • Git/GitHub**
-
----
-
-## 🌱 My Learning Journey
 
 ```text
-C++ & OOP
-    ↓
-Python
-    ↓
-Data Structures & Algorithms
-    ↓
-Machine Learning
-    ↓
-Deep Learning
-    ↓
-AI Engineering
-    ↓
-Backend + AI Applications 🚀
+       💻 C++ & OOP
+             │
+             ▼
+        🐍 Python
+             │
+             ▼
+      📚 DSA & Problem Solving
+             │
+             ▼
+      🤖 Machine Learning
+             │
+             ▼
+       🧠 Deep Learning
+             │
+             ▼
+       ⚙️ AI Engineering
+             │
+             ▼
+      🌐 Backend + AI Apps
+             │
+             ▼
+          🚀 AI Engineer
 ```
 
-I'm focusing on building a **strong foundation first** instead of rushing directly into advanced AI.
+</p>
+
+> 💡 **My approach:** Build strong fundamentals first, then move toward advanced AI.
 
 ---
 
-## 📂 Featured Projects
+<!-- ===================== PROJECTS ===================== -->
+
+## 🚀 Featured Projects
 
 ### 🐍 Python Practice
 
 A collection of small Python programs created while learning Python fundamentals.
 
-**Topics include:**
+**Topics:**
 
-* Variables & Data Types
-* Conditions
-* Loops
-* Lists
-* Tuples
-* Dictionaries
-* Sets
-* Functions
-* Problem Solving
+`Variables` • `Data Types` • `Conditions` • `Loops` • `Lists` • `Tuples` • `Dictionaries` • `Sets` • `Functions`
 
 ---
 
@@ -94,88 +118,166 @@ A collection of small Python programs created while learning Python fundamentals
 
 Projects created while learning Object-Oriented Programming in C++.
 
-**Concepts practiced:**
+**Concepts:**
 
-* Classes & Objects
-* Encapsulation
-* Abstraction
-* Inheritance
-* Polymorphism
-* Function Overloading
-* Function Overriding
-* Constructors & Destructors
-* Composition & Aggregation
+`Classes` • `Objects` • `Encapsulation` • `Abstraction` • `Inheritance` • `Polymorphism` • `Overloading` • `Composition`
 
 ---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+## 🌱 Currently Learning
+
+| 📚 Area    | 🎯 Focus                        |
+| ---------- | ------------------------------- |
+| 🐍 Python  | Programming Fundamentals        |
+| 🧩 DSA     | Problem Solving & Algorithms    |
+| 🤖 AI      | Machine Learning Fundamentals   |
+| 📊 Data    | Data Analysis & Visualization   |
+| 🌐 Backend | APIs & Backend Development      |
+| 🔧 Git     | Version Control & Collaboration |
+
+---
+
+<!-- ===================== GOALS ===================== -->
+
+## 🎯 2026 Goals
+
+* [x] Learn C++ fundamentals
+* [x] Learn Object-Oriented Programming
+* [x] Learn Git & GitHub basics
+* [x] Start Python
+* [ ] Become comfortable with Python
+* [ ] Learn Data Structures & Algorithms
+* [ ] Start Machine Learning
+* [ ] Explore Deep Learning
+* [ ] Build AI projects
+* [ ] Learn Backend Development
+* [ ] Build AI-powered applications
+* [ ] Prepare for internships 🚀
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafizmhassan2025&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmhassan2025&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hafizmhassan2025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2&text_color=FFFFFF" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmhassan2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="170"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+<!-- ===================== STREAK ===================== -->
+
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hafizmhassan2025&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=hafizmhassan2025&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00D9FF&currStreakLabel=00D9FF" />
+
 </p>
 
 ---
 
-## 📈 My Current Goals
+<!-- ===================== INTERESTS ===================== -->
 
-* 🐍 Become comfortable with Python
-* 🧠 Strengthen problem-solving skills
-* 📚 Learn Data Structures & Algorithms
-* 🤖 Start Machine Learning
-* 🧬 Explore Deep Learning
-* 🌐 Learn Backend Development
-* 🚀 Build real-world AI projects
-* 💼 Prepare for internships and freelance opportunities
+## 💡 Areas I'm Interested In
+
+<p align="center">
+
+🤖 **Artificial Intelligence**
+🧠 **Machine Learning**
+📊 **Data Science**
+🐍 **Python Development**
+🌐 **Backend Development**
+🔌 **APIs**
+🗄️ **Databases**
+⚙️ **AI Automation**
+🚀 **AI-Powered Applications**
+
+</p>
+
+---
+
+<!-- ===================== ROADMAP ===================== -->
+
+## 🚀 My Long-Term Vision
+
+```text
+                    🧑‍💻
+                     │
+             Strong Programming
+                     │
+                     ▼
+                🐍 Python
+                     │
+                     ▼
+             🧩 DSA + Algorithms
+                     │
+                     ▼
+              🤖 Machine Learning
+                     │
+                     ▼
+              🧠 Deep Learning
+                     │
+                     ▼
+             ⚙️ AI Engineering
+                     │
+              ┌──────┴──────┐
+              ▼             ▼
+        🌐 Backend      🤖 AI Apps
+              │             │
+              └──────┬──────┘
+                     ▼
+              🚀 AI Engineer
+```
 
 ---
 
-## 💡 What I'm Interested In
+<!-- ===================== MOTIVATION ===================== -->
 
-🤖 Artificial Intelligence
-🧠 Machine Learning
-📊 Data Science
-🐍 Python Development
-🌐 Backend Development
-🔌 APIs
-🗄️ Databases
-⚙️ AI Automation
-🚀 AI-Powered Applications
+## ✨ My Philosophy
+
+<div align="center">
+
+### **"Learn. Build. Fail. Improve. Repeat."**
+
+💙 I believe consistency is more important than speed.
+
+🟣 Every project is a step forward.
+
+🌌 Every mistake is part of the learning process.
+
+🚀 The goal is not to know everything —
+**the goal is to keep improving.**
+
+</div>
 
 ---
+
+<!-- ===================== CONNECT ===================== -->
 
 ## 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/hafizmhassan2025">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-## ⭐ A Little Motivation
+<div align="center">
 
-> **"Don't compare your Chapter 1 with someone else's Chapter 20."**
+### 🌌 Thanks for visiting my profile!
 
-I'm learning step by step, building projects, making mistakes, and improving every day. 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D9FF,100:8A2BE2&height=120&section=footer" />
 
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
-
-<p align="center">
-  <i>Learning • Building • Improving • Repeating</i>
-</p>
+</div>
