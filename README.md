@@ -158,32 +158,6 @@ Projects created while learning Object-Oriented Programming in C++.
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hafizmhassan2025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2&text_color=FFFFFF" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmhassan2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="170"/>
-
-</p>
-
----
-
-<!-- ===================== STREAK ===================== -->
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hafizmhassan2025&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00D9FF&currStreakLabel=00D9FF" />
-
-</p>
-
----
-
 <!-- ===================== INTERESTS ===================== -->
 
 ## 💡 Areas I'm Interested In
